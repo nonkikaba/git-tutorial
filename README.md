@@ -2,4 +2,4 @@
 
 - feature-A
 - fix-Bzs
-- featur -C
+- feature -C
